@@ -1,8 +1,8 @@
 # Prerequisites
-RavenDB 7.0.1+
-Node.js 22.14+
-pnmp 10.7.1+ - https://pnpm.io/installation
-**OpenAI API Key**
+- RavenDB 7.0.1+
+- Node.js 22.14+
+- pnmp 10.7.1+ - https://pnpm.io/installation
+- **OpenAI API Key**
 
 # Steps to run
 **RavenDB**
